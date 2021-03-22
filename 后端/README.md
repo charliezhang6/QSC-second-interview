@@ -1,5 +1,5 @@
 # 数据库
 这可以说是我第一次接触数据库，上手有一些困难，主要是因为我的电脑是M1芯片的macbook pro，会出现一些兼容性问题，且网络上的一些教程也不适用，所以大部分问题都是我自己摸索出来的。
-在第一次添加数据表（1-2-1.sql）的时候遇到了这个问题(https://user-images.githubusercontent.com/75478381/111933401-5d7f1a00-8afa-11eb-9388-3d66cdb15a4b.jpg)
+在第一次添加数据表（1-2-1.sql）的时候遇到了这个问题![image]（https://github.com/charliezhang6/QSC-second-interview/blob/main/后端/1-2-1.jpg）
 查了许多资料无法解决，随后改变了一下思路，先添加数据表，然后一条一条添加字段（1-2-2.sql），解决
 # GO
