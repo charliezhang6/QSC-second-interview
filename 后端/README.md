@@ -3,3 +3,7 @@
 在第一次添加数据表（1-2-1.sql）的时候遇到了这个问题![image](https://github.com/charliezhang6/QSC-second-interview/blob/main/后端/1-2-1.jpg)
 查了许多资料无法解决，随后改变了一下思路，先添加数据表，然后一条一条添加字段（1-2-2.sql），解决![image](https://github.com/charliezhang6/QSC-second-interview/blob/main/后端/1-2.png)
 # GO
+第一次接触go语言，在学习基本语法时确实被它的一些简洁吸引了，比如不需要分号，比如相同类型只需要打一次，比如快捷定义新变量
+![image](https://github.com/charliezhang6/QSC-second-interview/blob/main/后端/2-1.png)
+# GORM
+按照教程安装了GORM
