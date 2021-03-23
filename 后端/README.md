@@ -6,4 +6,5 @@
 第一次接触go语言，在学习基本语法时确实被它的一些简洁吸引了，比如不需要分号，比如相同类型只需要打一次，比如快捷定义新变量
 ![image](https://github.com/charliezhang6/QSC-second-interview/blob/main/后端/2-1.png)
 # GORM
-按照教程安装了GORM
+按照教程安装了GORM![image](https://github.com/charliezhang6/QSC-second-interview/blob/main/后端/3-1.png)
+并连接到了数据库，在IDE里对数据库进行操作确实比在终端里面舒服一些
